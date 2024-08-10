@@ -1,0 +1,5 @@
+How to customize the Color?
+    We will need to go to the tailwind.config.js file to add our color.
+        1. if we added if away from extend: it will remove the main color library of tailwind.
+        2. if do not need to remove the main color library from tailwind we will need to add it inside extend.
+        
